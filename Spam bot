@@ -1,0 +1,8 @@
+import pyautogui
+from time import sleep
+
+sleep(enter time here)
+
+for i in range(enter amount here):
+    pyautogui.typewrite("enter text here")
+    pyautogui.press("enter")
